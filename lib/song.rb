@@ -22,5 +22,5 @@ class Song
 
 end
 
-song = Song.new
+song = Song.new("me")
 print song.class
