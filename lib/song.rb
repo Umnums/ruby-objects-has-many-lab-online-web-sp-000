@@ -23,4 +23,4 @@ class Song
 end
 
 song = Song.new("me")
-print song.artist_name
+print song.artist
