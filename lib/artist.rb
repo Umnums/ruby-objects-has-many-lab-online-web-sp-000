@@ -7,5 +7,8 @@ class Author
     @songs = []
   end
 
+  def add_song
+    @songs << self
+  end
 
 end
